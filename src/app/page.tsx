@@ -1,6 +1,3 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-
 export default function Home() {
-  return <div>제발제발</div>;
+  return <div>헤헤~</div>;
 }
